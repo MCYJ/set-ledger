@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <rect x="0" y="0" width="1024" height="1024" fill="#873B50"/>
+  <rect x="160" y="146" width="704" height="732" rx="48" fill="#F9F6F3"/>
+  <rect x="220" y="218" width="98" height="30" rx="8" fill="#66766E"/>
+  <rect x="410" y="208" width="286" height="48" rx="10" fill="#873B50"/>
+  <line x1="220" y1="302" x2="804" y2="302" stroke="#D1C7C6" stroke-width="8"/>
+  <line x1="360" y1="336" x2="360" y2="782" stroke="#D1C7C6" stroke-width="8"/>
+  <rect x="224" y="368" width="76" height="28" rx="6" fill="#A7ACA7"/>
+  <rect x="224" y="514" width="76" height="28" rx="6" fill="#A7ACA7"/>
+  <rect x="224" y="660" width="76" height="28" rx="6" fill="#A7ACA7"/>
+  <rect x="416" y="354" width="192" height="56" rx="10" fill="#873B50"/>
+  <rect x="416" y="500" width="192" height="56" rx="10" fill="#873B50"/>
+  <rect x="416" y="646" width="192" height="56" rx="10" fill="#E6DEDC"/>
+  <rect x="694" y="350" width="72" height="72" rx="14" fill="#873B50"/>
+  <polyline points="710,385 726,401 751,369" fill="none" stroke="#F9F6F3" stroke-width="11"/>
+  <rect x="694" y="496" width="72" height="72" rx="14" fill="#873B50"/>
+  <polyline points="710,531 726,547 751,515" fill="none" stroke="#F9F6F3" stroke-width="11"/>
+  <rect x="694" y="642" width="72" height="72" rx="14" fill="#F9F6F3" stroke="#873B50" stroke-width="9"/>
+  <line x1="416" y1="772" x2="766" y2="772" stroke="#D1C7C6" stroke-width="8"/>
+</svg>
